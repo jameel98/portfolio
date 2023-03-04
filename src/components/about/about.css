@@ -26,7 +26,7 @@
 }
 
 .about__me-image:hover {
-  transform-origin: rotate(0deg);
+  transform: rotate(0deg);
 }
 
 .about__cards {
