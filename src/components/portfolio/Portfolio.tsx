@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
+import IMG1 from "../../assets/Transportation.png";
+import IMG2 from "../../assets/Tourism.png";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
 
@@ -10,16 +10,16 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Transportation Project",
-    github: "https://github.com",
-    demo: "",
+    github: "https://github.com/Sam-Eldin/Transportation",
+    demo: "https://software-final-project-9c0fe.web.app/",
   },
 
   {
     id: 2,
     image: IMG2,
-    title: "Transportation Project",
-    github: "https://github.com",
-    demo: "",
+    title: "Golan Tourism Project",
+    github: "https://github.com/Rabmah/web-project",
+    demo: "https://web-project-60a94.web.app/",
   },
 ];
 const Portfolio = () => {

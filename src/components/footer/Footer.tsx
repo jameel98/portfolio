@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#" className="footer__logo">
-        Pop
+        Jameel
       </a>
 
       <ul className="permalinks">
@@ -21,15 +21,11 @@ const Footer = () => {
         <li>
           <a href="#experience">Experience</a>
         </li>
-        <li>
-          <a href="#services">Services</a>
-        </li>
+
         <li>
           <a href="#portfolio">Portfolio</a>
         </li>
-        <li>
-          <a href="#testimonials">Testimonals</a>
-        </li>
+
         <li>
           <a href="#contact">Contact</a>
         </li>
@@ -46,9 +42,10 @@ const Footer = () => {
         </a>
       </div>
 
-      <div className="footer__copyright">
-        <small>&copy; pop education. All rights reserved</small>{" "}
+      {/* <div className="footer__copyright">
+        <small>&copy; All rights reserved</small>{" "}
       </div>
+  */}
     </footer>
   );
 };

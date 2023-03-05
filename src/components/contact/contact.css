@@ -1,3 +1,4 @@
+/*
 .container.contact__container {
   width: 58%;
   display: grid;
@@ -10,7 +11,13 @@
   flex-direction: column;
   gap: 1.2rem;
 }
+*/
 
+.contact__options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem;
+}
 .contact__option {
   background: var(--color-bg-variant);
   padding: 1.2rem;
