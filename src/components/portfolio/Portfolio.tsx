@@ -2,8 +2,8 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/Transportation.png";
 import IMG2 from "../../assets/Tourism.png";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
+// import IMG3 from "../../assets/portfolio3.jpg";
+// import IMG4 from "../../assets/portfolio4.jpg";
 
 const data = [
   {
