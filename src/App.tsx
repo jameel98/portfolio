@@ -9,6 +9,7 @@ import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Services from "./components/services/Services";
 import Testimonials from "./components/testimonials/Testimonials";
+
 function App() {
   return (
     <div className="App">

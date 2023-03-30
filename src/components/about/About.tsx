@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/MYAVATAR.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -39,7 +39,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            CS student with alot of passion to work.serious and good team player
+            Computer science Fresh graduate. Quantitive mindset, hieghly curious
+            and focused on learning in most parts of my life, likes to take
+            initiative and seek new challenges.
           </p>
           <a href="#contact" className="btn btn-primary">
             Lets Talk
